@@ -1,221 +1,65 @@
-# Learning Path Repository - Traders@SMU Alpha Program
+# Personal Goals Document - Traders@SMU Alpha Program
 
-Welcome to your learning journey! This repository is structured to guide you through a progressive learning path with organized materials, exercises, and projects.
+Will Brett 
+wbrett@smu.edu 
+Level 1 (Junior)
 
-## Welcome
+## 1. Background in Quantitative Finance
 
-This repository serves as your central hub for all course materials. Each level is broken down into weekly modules, allowing you to progress at a steady pace while building on previous knowledge.
+*In this section, describe your current background in quantitative finance. This could include:*
+- *Relevant coursework or degrees*
+- *Previous internships or jobs*
+- *Personal projects or research*
+- *Trading experience (if any)*
+- *What sparked your interest in quant finance*
 
-## Repository Structure
+I don't have a large background in the finance world, but I am excited to begin learning more. I am a senior studying Data Science and working towards my masters in the field. My biggest experience in finance was interning with Goldman Sachs this past summer. I worked on the Syndicated Loans team doing business intelligence. I automated reports to help automate processes allowing other team members to tackle more client-related issues rather than busywork in their day-to-day. I have no trading experience. My interest in quant finance stems from my belief that the finance world has a great use for those with quantitative skills, and my data science skillset could be used well there, since many traditional finance students do not have the same background I do. 
 
-This repository contains materials organized by levels (L1, L2) and weeks, along with a final project.
+## 2. Career Goals
 
-## Structure
+*In this section, outline your short and long-term career goals. Be specific about:*
+- *What roles or positions interest you*
+- *Which companies or types of firms you'd like to work for*
+- *Specific areas of finance you want to specialize in*
+- *What you hope to achieve in 1, 5, and 10 years*
 
-- **L1**: Level 1 materials (Junior)
-  - Week1 through Week8
-- **L2**: Level 2 materials (Associate)
-  - Week1 through Week8
-- **Final_Project**: Final project materials
+In the short term, I am interested in re-recruiting. I believe that I can strive for more than my current role gives me, both in terms of career trajectory and utilizing my skillset. I really enjoyed my time at Goldman, so I think that for now, I would like to remain there. I believe that the current job market and its trends show that I have a better chance at an internal transfer than a full re-recruit to another company, at least now. Long term, I hope to be working for a hedge fund or private equity group in some sort of quantitative role. While I am not sure this will be the case in 1 year, I could see myself leveraging the Goldman name and my contacts there to jump off somewhere else in the next 5-10.
 
-## Getting Started
+## 3. What I Hope to Learn from This Program
 
-Choose your level and navigate to the corresponding week to find materials and instructions.
+*In this section, describe what specific knowledge, skills, or experiences you hope to gain from the Alpha Program:*
+- *Technical skills (programming, math, statistics)*
+- *Financial concepts and trading strategies*
+- *Specific tools or platforms*
+- *Networking opportunities*
+- *How this program fits into your overall learning path*
 
-## Step 1: Create Your Own Copy of the Repository
+I am most interested in growing my financial knowledge through this program. While I will definitely learn more about math and programming, I feel that as a senior, I need to "catch up" more on financial concepts and trading strategies, as I comparatively know nothing about those things. I am interested in networking opportunities, but I feel that those will be slightly different for me as opposed to freshmen/sophomores that have more time in their recruiting journeys, at least for immediately post-grad. I think that this program fits well into my learning path, as I can somewhat "start from scratch" alongside the younger members in terms of the financial aspects.
 
-1. Go to the [Traders@SMU student-template repository](https://github.com/Traders-SMU/student-template)
-2. Click the green "Use this template" button near the top of the page
-3. Select "Create a new repository"
-4. Name your repository (e.g., "alpha-program-yourname")
-5. Choose whether to make it public or private
-6. Click "Create repository from template"
+## 4. Current Technical Skills
 
-## Step 2: Clone the Repository to Your Computer
+*In this section, honestly assess your current technical skills. Rate yourself (Beginner/Intermediate/Advanced) in:*
+- *Programming languages (Python, R, etc.)*
+- *Data analysis tools*
+- *Statistical analysis*
+- *Financial modeling*
+- *Machine learning*
+- *Version control (Git)*
+- *Other relevant skills*
 
-### Using GitHub Desktop (Recommended for beginners):
+I feel that I am fairly proficient in several coding languages. I would describe myself as advanced in R and SAS, while I am more intermediate in Python. I have never coded in C++. In terms of data and statistical analysis, I feel that I am fairly advanced. I am a beginner in terms of financial modeling. I have not used much Git, so I am fairly a beginner there. 
 
-1. Open GitHub Desktop
-2. Click "File" → "Clone repository"
-3. Select your newly created repository
-4. Choose where to save it on your computer
-5. Click "Clone"
+## 5. Development Plan & Program Goals
 
-### Using Git Command Line:
-```bash
-# Navigate to where you want to store the repository
-cd Documents/Projects
+*In this section, outline:*
+- *Specific skills you plan to develop during this program*
+- *How you will measure your progress*
+- *Time commitment you're planning to dedicate each week*
+- *Resources you'll use beyond the program materials*
+- *Your definition of success for this program*
 
-# Clone your repository (replace USERNAME and REPO-NAME with your information)
-git clone https://github.com/USERNAME/REPO-NAME.git
+I am not sure how much C++ we will learn with this program, but that is something I am interested in learning more about. I really want to learn everything about finance, whether that is the basic models, what the Greeks are, all sorts of trading strategies and portfolio composition, or trading derivatives. I will measure my success by things such as comparing my knowledge to where I was before based on my test results at the first meeting, and how well I am able to explain the aspects of the Primer. I plan to put about 4 hours a week into this program, but will adjust that based on how I feel as we move along. I have a list of books on quant finance I plan to supplement my learning with. My definition of success in this program is building up and maintaining much more knowledge than I had previously, and being more confident in my ability to match up with others that might be interviewing for roles in the industry. 
 
-# Move into the repository folder
-cd REPO-NAME
-```
+---
 
-## Step 3: Find Your Level and Week
-
-1. Open the repository folder on your computer
-2. Navigate to either the L1 (Junior) or L2 (Associate) folder, depending on your program level
-3. Find the folder for the current week (Week1, Week2, etc.)
-4. Read the README.md file in that folder for instructions on the week's assignment
-
-## Step 4: Complete Your Assignment
-
-1. Edit the files as instructed in the weekly README
-2. For Week 1, fill out the Personal Goals Document with your information
-3. For subsequent weeks, complete the coding assignments and exercises
-
-## Step 5: Submit Your Assignment
-
-### Using GitHub Desktop:
-
-1. Open GitHub Desktop
-2. You'll see a list of changed files
-3. Enter a summary of your changes (e.g., "Completed Week 1 assignment")
-4. Click "Commit to main"
-5. Click "Push origin" to upload your changes
-
-### Using Git Command Line:
-```bash
-# Create a branch for your submission (replace X with your level and Y with the week)
-git checkout -b LX-WY-submission
-
-# Add all your changes
-git add .
-
-# Commit your changes with a message
-git commit -m "Completed Week Y assignment"
-
-# Push your changes to GitHub
-git push origin LX-WY-submission
-```
-
-## Step 6: Create a Pull Request
-
-1. Go to your repository on GitHub
-2. You should see a message about your recently pushed branch
-3. Click "Compare & pull request"
-4. Add any comments about your submission
-5. Click "Create pull request"
-
-## Receiving Updates Throughout the Course
-
-As the course progresses, we'll add new materials for upcoming weeks (Week 2, Week 3, etc.). You'll need to update your repository to get these new materials. Here's how:
-
-### Option 1: Using GitHub Web Interface (Easiest Method)
-
-1. Navigate to your repository on GitHub
-2. Look for the message that says "This branch is X commits behind Traders-SMU:main"
-3. Click on "Sync fork" near the top of the page
-4. Click "Update branch" to get the latest changes
-5. Once updated online, pull the changes to your local repository:
-   - In GitHub Desktop: Click "Fetch origin" then "Pull origin"
-   - In Git command line: Run `git pull origin main`
-
-### Option 2: Using Git Command Line (More Control)
-
-First time setup (only do this once):
-```bash
-# Add the original repository as an "upstream" remote
-git remote add upstream https://github.com/Traders-SMU/student-template.git
-```
-
-Whenever you need to get updates:
-```bash
-# Make sure you're on your main branch
-git checkout main
-
-# Get the latest changes from the original repository
-git fetch upstream
-
-# Merge those changes into your local repository
-git merge upstream/main
-
-# Push the updated content to your GitHub repository
-git push origin main
-```
-
-### Handling Merge Conflicts
-
-If you've modified files that were also updated in the original repository, you might see a "merge conflict." This happens when Git can't automatically determine which changes to keep.
-
-If you encounter merge conflicts:
-
-1. Look for files marked as conflicted in GitHub Desktop or listed in the command line output
-2. Open these files in a text editor - you'll see sections marked with `<<<<<<<`, `=======`, and `>>>>>>>`
-3. Edit the file to keep the changes you want (remove the marker lines and unwanted content)
-4. Save the file
-5. Mark the conflict as resolved:
-   - In GitHub Desktop: Right-click the file and select "Mark as resolved"
-   - In Git command line: Run `git add <filename>` for each resolved file
-6. Complete the merge:
-   - In GitHub Desktop: Click "Commit merge"
-   - In Git command line: Run `git commit`
-
-If you're unsure how to resolve conflicts, reach out to your instructor for assistance.
-
-### When to Update Your Repository
-
-We recommend checking for updates:
-- At the beginning of each week
-- Whenever an announcement is made about new materials
-- If you encounter references to files that don't exist in your repository
-
-## Common Issues and Solutions
-
-### "Fatal: Repository not found" Error
-
-This usually means the repository URL is incorrect or you don't have access.
-- Check that you're using the correct URL
-- Make sure you've created your own copy of the template repository
-
-### "Permission denied" Error
-
-This typically means you don't have write access to the repository.
-- Make sure you're pushing to your own repository, not the original template
-- Check that you've set up your GitHub authentication correctly
-
-### Changes Not Showing Up
-
-If your changes aren't appearing on GitHub:
-- Make sure you've committed your changes (`git commit`)
-- Make sure you've pushed your changes (`git push`)
-- Check that you're on the correct branch
-
-### "Updates were rejected" Error
-
-This usually means there are changes on GitHub that you don't have locally.
-- Pull the latest changes first: `git pull origin main`
-- Then try pushing again
-
-## Getting Help
-
-If you encounter any issues:
-- Ask a classmate who might be familiar with Git
-- Contact your program instructor
-- Search for your error message on [Stack Overflow](https://stackoverflow.com/)
-- Refer to the [GitHub documentation](https://docs.github.com/en)
-
-## Git/GitHub Terminology
-
-- **Repository (Repo)**: A storage location for your project
-- **Clone**: Creating a local copy of a repository on your computer
-- **Commit**: Saving your changes to the local repository
-- **Push**: Uploading your committed changes to the remote repository (GitHub)
-- **Pull**: Downloading changes from the remote repository to your local copy
-- **Branch**: A separate version of the repository for development
-- **Pull Request (PR)**: A request to merge changes from one branch into another
-- **Fork**: A copy of a repository that you manage
-- **Upstream**: The original repository that you created your copy from
-- **Merge**: Combining changes from different sources
-- **Merge Conflict**: When Git can't automatically combine changes
-
-Remember, everyone starts somewhere with Git! Don't be afraid to ask questions if you get stuck.
-
-```bash
-# After downloading or creating the new files
-git add L1/Week2/
-git commit -m "Add Week 2 materials"
-git push origin main
-```
+*I understand that this document will be used to track my progress throughout the program and may be referenced during career counseling sessions. I commit to working toward these goals during the Traders@SMU Alpha Program.*
